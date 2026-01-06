@@ -1,7 +1,6 @@
-
 TRUE=0
 FALSE=1
-if ./false;
+if ./true;
 then
     echo $TRUE
 else
