@@ -1,4 +1,4 @@
-//gcc -o echo echo.c
+//gcc -o sh sh.c
 //./cat script.txt | ./sh 
 #include <stdio.h>
 #include <stdlib.h>
