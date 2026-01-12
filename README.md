@@ -3,11 +3,9 @@ learn to bash source
 
 the read is a internal command of sh bash
 
-make a directory  /sdcard/bin
+make a directory  c:\bin  or c:\bin2 or c:\system or  
 
-https://play.google.com/store/apps/details?id=ru.iiec.cxxdroid
-
-compile: clang -o out out.c
+compile: gcc -o out out.c
 
 run : ./out 1 2 3
 
